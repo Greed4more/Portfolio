@@ -504,7 +504,7 @@ function App() {
                     target="_blank"
                     rel="noreferrer"
                   >
-                    VISIT {person.name.split(" ")[0]}'S WORLD ↗
+                    VISIT {person.name.split(" ")[0]}'S PORTFOLIO ↗
                   </a>
                 )}
               </div>
