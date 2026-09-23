@@ -5,10 +5,10 @@ const gang = [
   {
     id: "friend-01",
     name: "BISWASZIN",
-    role: "DEVELOPER · GAMER",
+    role: "DEVELOPER · CUTE",
     image: "/projects/Ankit.png",
     quote: "LINK LINK",
-    portfolio: "",
+    portfolio: "biswaszin.github.io",
   },
   {
     id: "friend-02",
