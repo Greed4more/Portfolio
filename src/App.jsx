@@ -8,7 +8,7 @@ const gang = [
     role: "DEVELOPER · CUTE",
     image: "/projects/Ankit.png",
     quote: "LINK LINK",
-    portfolio: "biswaszin.github.io",
+    portfolio: "https://biswaszin.github.io",
   },
   {
     id: "friend-02",
